@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajdeep-017
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on CSS
+- 👀 I’m interested in python
+- 🌱 I’m currently learning LLMs
+- 💞️ I’m looking to collaborate on ML DS
 - 📫 How to reach me GIT ,LINKEDIN
 
 <!---
