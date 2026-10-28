@@ -3,8 +3,7 @@
 <div align="center">
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajdeep%20Sawant&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=18" alt="Rajdeep Sawant" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajdeep%20Sawant&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20and%20Data%20Science%20%7C%20Full-Stack%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=18" alt="Rajdeep Sawant" />
 
 
 <a href="https://github.com/Rajdeep-017">
