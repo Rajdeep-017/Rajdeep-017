@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajdeep%20Sawant&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajdeep%20Sawant&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20%7C%20Competitive%20Programmer&descAlignY=60&descSize=18" alt="Rajdeep Sawant" />
 
 <a href="https://github.com/Rajdeep-017">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+multi-agent+AI+systems;Training+and+shipping+ML+models;Full-stack+with+React+%2B+FastAPI;Solving+problems+one+contest+at+a+time" alt="typing" />
