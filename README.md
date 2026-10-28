@@ -49,7 +49,6 @@ I'm a B.Tech student in **Artificial Intelligence & Data Science** at AISSMS Ins
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🎧 **[HelpIQ](https://github.com/Rajdeep-017/helpiq)** | Multi-agent customer support platform with a Triage → Retriever → Resolver → Guardrail pipeline | `Python` `FastAPI` `LLM Agents` `RAG` |
 | 🛡️ **[RiskSentinel](https://github.com/Rajdeep-017/risksentinel)** | Multi-agent risk analysis system using LangGraph orchestration, ensemble ML models and RAG retrieval | `LangGraph` `scikit-learn` `RAG` |
 | 💳 **[Razorpay ML Suite](https://github.com/Rajdeep-017/razorpay-ml)** | Six-model suite covering credit risk, churn, fraud, cyber, operational risk and forecasting, with leakage fixes and threshold tuning | `Python` `XGBoost` `Pandas` |
 ---
